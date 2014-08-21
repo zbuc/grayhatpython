@@ -1,0 +1,12 @@
+core
+MANIFEST
+.make.state.Debug
+.dep.inc
+Makefile
+nbproject/
+build/
+dist/
+out.txt
+*.pyc
+dtrace/dtrace.c
+.tox
